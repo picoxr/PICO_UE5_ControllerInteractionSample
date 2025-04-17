@@ -2,6 +2,8 @@
 
 - If you have any questions/comments, please visit [**Pico Developer Support Portal**](https://picodevsupport.freshdesk.com/support/home) and raise your question there.
 
+- This sample does not include the Pico Unreal Integration SDK 3.1.0 plugin; please download it from [**Pico Unreal Integration SDK 3.1.0 plugin**](https://developer.picoxr.com/zh/resources/).
+
 ## Unreal Engine 5 & SDK Version
 - Unreal Engine : 5.3.2
 
